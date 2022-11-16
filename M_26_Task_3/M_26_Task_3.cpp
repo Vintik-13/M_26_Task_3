@@ -30,9 +30,9 @@ int main()
     Display disp(win);
 
     win.setNameWindow("Window #3");
-    win.setXY(2, 2);
-    win.setHeight(5);
-    win.setWidth(5);
+    win.setXY(20, 20);
+    win.setHeight(15);
+    win.setWidth(15);
     win.setAction(true);
     disp.addWindow(win);
 

@@ -1,8 +1,8 @@
 #pragma once
 #include <string>
 
-const size_t MAX_WIDTH_DISPLAY = 15;
-const size_t MAX_HEIGT_DISPLAY = 10;
+const size_t MAX_WIDTH_DISPLAY = 80;
+const size_t MAX_HEIGT_DISPLAY = 50;
 
 class Window {
 	std::string m_nameWinow{""};
